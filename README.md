@@ -26,13 +26,13 @@ Theme: My Own Artistic Passion
 Skills Focus: Branding, typography, layout design, personal branding
 
 ## How to View the Designs
-- All designs for each task are organized in folders. Each folder contains:
+ All designs for each task are organized in folders.
+ Each folder contains:
 
-- Original design files (.psd, .ai)
 - Exported images for quick preview (.jpg, .png)
 
 ## Contact Information
 If you'd like to get in touch or collaborate, feel free to reach out to me:
 
 - Email: keerthanakrish067@gmail.com
-- LinkedIn: keerthana-krishnan-2136b024b
+- LinkedIn: https://www.linkedin.com/in/keerthana-krishnan-2136b024b/?originalSubdomain=in
