@@ -1,4 +1,4 @@
-## Graphic Design Internship Portfolio
+## Graphic Design Internship 
  This repository contains all the tasks I completed during my internship, where I focused on applying specific themes to each design project. Each task highlights a unique blend of design techniques and creative exploration.
 
 ## Table of Contents
